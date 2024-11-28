@@ -1,0 +1,1 @@
+This project is just a sample. I'm uploading thsi to provide a link to my sample work for employers. I will be updating this README in the future. 
